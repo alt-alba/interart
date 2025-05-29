@@ -19,7 +19,7 @@ Listado de proyectos
 
 | Nombre                           | Titulo                          | Github                                         | [Itch.io](http://itch.io/)                                |
 | -------------------------------- | ------------------------------- | ---------------------------------------------- | --------------------------------------------------------- |
-| CALLEJON JAREÑO, ALBA            | DE PATA NEGRA                   |                                                |                                                           |
+| CALLEJON JAREÑO, ALBA            | DE PATA NEGRA                   | https://github.com/alt-alba/cmi                | https://alt-alba.itch.io/de-pata-negra                                                          |
 | CALVO MOLINA, ALBA MARIA         | The Hunt                        |                                                |                                                           |
 | DIAZ GARCIA, PAOLA               | Band Dating Simulator           |                                                |                                                           |
 | FERNANDEZ LABANDER FIRAT, DERIN  | LOVE IN THE SPOTLIGHT           | https://github.com/yildizcreature/cmi          | https://yildizcreature.itch.io/love-in-the-spotlight      |
